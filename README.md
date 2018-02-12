@@ -12,3 +12,5 @@ licence : Creative Commons 4.0
 
 [Creative Commons 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 ![icone](https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ericlejan/GRAASP.git/master)
